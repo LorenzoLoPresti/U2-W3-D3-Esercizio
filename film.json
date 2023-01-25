@@ -1,0 +1,212 @@
+[
+  {
+    "titolo": "Bastardi senza gloria",
+    "anno": "2009",
+    "regista": "Quentin Tarantino",
+    "ratingsMyMovies": "3.4",
+    "castPrincipale": "['Brad Pitt', 'Cristoph Waltz', 'Diane Kruger']"
+  },
+  {
+    "titolo": "American Psycho",
+    "anno": "2000",
+    "regista": "Mary Harron",
+    "ratingsMyMovies": "2.6",
+    "castPrincipale": "['Christian Bale', 'Jared Leto', 'Willem Dafoe']"
+  },
+  {
+    "titolo": "Marie Antoinette",
+    "anno": "2006",
+    "regista": "Sofia Coppola",
+    "ratingsMyMovies": "2.9",
+    "castPrincipale": "['Kirsten Dunst', 'Jason Schwartzman', 'Rose Byrne']"
+  },
+  {
+    "titolo": "Sir Gawain e il cavaliere verde",
+    "anno": "2020",
+    "regista": "David Lowery",
+    "ratingsMyMovies": "over9000",
+    "castPrincipale": "['Dave Patel', 'Alicia Vikander', 'Barry Koeghan']"
+  },
+  {
+    "titolo": "Drive",
+    "anno": "2011",
+    "regista": "Nicholas Winding Refn",
+    "ratingsMyMovies": "over9000",
+    "castPrincipale": "['Ryan Gosling', 'Carey Mulligan', 'Bryan Cranston']"
+  },
+  {
+    "titolo": "Gattaca",
+    "anno": "1997",
+    "regista": "Andrew Niccol",
+    "ratingsMyMovies": "over10000",
+    "castPrincipale": "['Ethan Hawke', 'Uma Thurman', 'Jude Law']"
+  },
+  {
+    "titolo": "The Last Duel",
+    "anno": "2021",
+    "regista": "Ridley Scott",
+    "ratingsMyMovies": "3.4",
+    "castPrincipale": "['Jodie Comer', 'Adam Driver', 'Matt Damon']"
+  },
+  {
+    "titolo": "La forma dell'acqua",
+    "anno": "2017",
+    "regista": "Guillermo del Toro",
+    "ratingsMyMovies": "3.8",
+    "castPrincipale": "['Sally Hawkins', 'Doug Jones', 'Octavia Spencer']"
+  },
+  {
+    "titolo": "This must be the place",
+    "anno": "2011",
+    "regista": "Paolo Sorrentino",
+    "ratingsMyMovies": "3.6",
+    "castPrincipale": "['Sean Penn', 'Frances McDormand', 'David Byrne']"
+  },
+  {
+    "titolo": "Mad Max: Fury Road",
+    "anno": "2015",
+    "regista": "George Miller",
+    "ratingsMyMovies": "3.6",
+    "castPrincipale": "['Tom Hardy', 'Charlize Theron', 'Nicholas Hoult']"
+  },
+  {
+    "titolo": "Il talento di Mr Ripley",
+    "anno": "1999",
+    "regista": "Anthony Minghella",
+    "ratingsMyMovies": "3.6",
+    "castPrincipale": "['Matt Damon', 'jude Law' 'Fiorello']"
+  },
+  {
+    "titolo": "Will Hunting",
+    "anno": "1997",
+    "regista": "Gus Van Sant",
+    "ratingsMyMovies": "3.6",
+    "castPrincipale": "['Matt Demon', 'Ben Affleck', 'ROBIN WILLIAMS']"
+  },
+  {
+    "titolo": "Hook",
+    "anno": "1991",
+    "regista": "Steven Spielberg",
+    "ratingsMyMovies": "3.3",
+    "castPrincipale": "['Robin WIlliams', 'Dustin Hoffman', 'Julia Roberts']"
+  },
+  {
+    "titolo": "Il signore degli Anelli: La compagnia dell'anello",
+    "anno": "2001",
+    "regista": "Peter Jackson",
+    "ratingsMyMovies": "4",
+    "castPrincipale": "['Elijah Wood', 'Viggo Mortensen', 'Cate Blanchett']"
+  },
+  {
+    "titolo": "Hot Fuzz",
+    "anno": "2007",
+    "regista": "Edgar Wright",
+    "ratingsMyMovies": "3.2",
+    "castPrincipale": "['Simon Pegg', 'Nick Frost', 'Paddy Considine']"
+  },
+  {
+    "titolo": "Le ali della libertà",
+    "anno": "1994",
+    "regista": "Frank Darabont",
+    "ratingsMyMovies": "4",
+    "castPrincipale": "['Morgan Freeman', 'Tim Robbins', 'Clancy Brown']"
+  },
+  {
+    "titolo": "Wiplash",
+    "anno": "2014",
+    "regista": "Damien Chazelle",
+    "ratingsMyMovies": "3.8",
+    "castPrincipale": "['Miles Teller', 'J.K. Simmons', 'Paul Reisner']"
+  },
+  {
+    "titolo": "Green Book",
+    "anno": "2018",
+    "regista": "Peter Farrelly",
+    "ratingsMyMovies": "3.8",
+    "castPrincipale": "['Viggo Mortensen', 'Mahershala Ali', 'Nick Vallelonga']"
+  },
+  {
+    "titolo": "Rushmore",
+    "anno": "1998",
+    "regista": "Wes Anderson",
+    "ratingsMyMovies": "3.1",
+    "castPrincipale": "['Jason Schwartzman', 'Bill Murray', 'Owen Wilson']"
+  },
+  {
+    "titolo": "Il treno per il Darjeeling",
+    "anno": "2007",
+    "regista": "Wes Anderson",
+    "ratingsMyMovies": "3.5",
+    "castPrincipale": "['Jason Schwartzman', 'Adam Brody', 'Owen Wilson']"
+  },
+  {
+    "titolo": "Napoli Velata",
+    "anno": "2017",
+    "regista": "Ferzan Ozpetek",
+    "ratingsMyMovies": "3.1",
+    "castPrincipale": "['Giovanna Mezzogiorno', 'Alessandro Borghi', 'Biagio Forestieri']"
+  },
+  {
+    "titolo": "Parasite",
+    "anno": "2019",
+    "regista": "Bong Joon-ho",
+    "ratingsMyMovies": "4",
+    "castPrincipale": "['Park So-dam', 'Cho Yeo-jeong', 'Park Seo-joon']"
+  },
+  {
+    "titolo": "Old Boy",
+    "anno": "2003",
+    "regista": "Park Chan-wook",
+    "ratingsMyMovies": "4",
+    "castPrincipale": "['Kang Hye-jeong', 'Choi Min-sik', 'Yoo Ji-tae']"
+  },
+  {
+    "titolo": "Hero",
+    "anno": "2002",
+    "regista": "Zhang Yimou",
+    "ratingsMyMovies": "3.3",
+    "castPrincipale": "['Jet Li', 'Maggie Cheung', 'Donnie Yen']"
+  },
+  {
+    "titolo": "La tigre e il dragone",
+    "anno": "2000",
+    "regista": "Ang Lee",
+    "ratingsMyMovies": "3.1",
+    "castPrincipale": "['Michelle Yeoh', 'Zhang Ziyi', 'Chow Yun-fat']"
+  },
+  {
+    "titolo": "La La Land",
+    "anno": "2016",
+    "regista": "Damien Chazelle",
+    "ratingsMyMovies": "3.5",
+    "castPrincipale": "['Emma Stone', 'Ryan Gosling', J.K Simmons']"
+  },
+  {
+    "titolo": "Il Grande Gatsby",
+    "anno": "2013",
+    "regista": "Baz Luhrmann",
+    "ratingsMyMovies": "2.9",
+    "castPrincipale": "['Leonardo Di Caprio', 'Tobey Maguire', 'Carey Mulligan']"
+  },
+  {
+    "titolo": "Top Gun: Maverick",
+    "anno": "2022",
+    "regista": "Joseph Kosinski",
+    "ratingsMyMovies": "3.7",
+    "castPrincipale": "['Tom Cruise', 'Miles Teller', 'Val Kilmer']"
+  },
+  {
+    "titolo": "L'arte di vincere",
+    "anno": "2011",
+    "regista": "Bennet Miller",
+    "ratingsMyMovies": "3.7",
+    "castPrincipale": "['Brad Pitt', 'Jonah Hill', 'Chris Pratt']"
+  },
+  {
+    "titolo": "La grande bellezza",
+    "anno": "2013",
+    "regista": "Paolo Sorrentino",
+    "ratingsMyMovies": "3.3",
+    "castPrincipale": "['Toni Servillo', 'Carlo Verdone', 'Luca Marinelli']"
+  }
+]
