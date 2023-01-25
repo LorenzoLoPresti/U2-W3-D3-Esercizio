@@ -1,5 +1,5 @@
 let pReference = document.querySelector("p");
-let count = sessionStorage.getItem("getTime") || 0;
+let count = Number(sessionStorage.getItem("getTime")) || 0;
 
 const counterRun = function () {
   pReference.textContent = count;
